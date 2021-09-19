@@ -3,6 +3,6 @@
 </br>
 <a href="https://monosnap.com/file/EVTnYbtNpEBlKj0YnSKUwNIfbaFC9I" rel="noopener noreferrer" target="_blank">2. Contact by ID</a>
 </br>
-<a href="https://monosnap.com/file/OjJhQt7opazXTWcbT1QLZObNgpMcFL" rel="noopener noreferrer" target="_blank">3. Contact adding</a>
+<a href="https://monosnap.com/file/Vq4C52sXMj0cKANAmILAqN62WhZTY7" rel="noopener noreferrer" target="_blank">3. Contact adding</a>
 </br>
 <a href="https://monosnap.com/file/RusZ9HwZsSOdKEUkiwCh5eX9iBpQr9" rel="noopener noreferrer" target="_blank">4. Contact removing</a>
