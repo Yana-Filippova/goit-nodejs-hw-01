@@ -1,4 +1,4 @@
-<h1>Command execution screenshots</h1>
+<h1>Command execution screenshots:</h1>
 
 <a href="https://monosnap.com/file/DA8M8P1IJEwocfBM2DjLGZL69O0KYN" rel="noopener noreferrer" target="_blank">1. Contact list</a>
 </br>
