@@ -132,17 +132,25 @@ invokeAction(argv);
 
 Запусти команди в терміналі і зроби окремий скріншот результату виконання кожної команди.
 
-```shell
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+
+```shell
 node index.js --action="list"
+```
 
 # Отримуємо контакт по id
+
+```shell
 node index.js --action="get" --id=5
+```
 
 # Добавялем контакт
+```shell
 node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
-
+```
 # Видаляємо контакт
+
+```shell
 node index.js --action="remove" --id=3
 ```
 
