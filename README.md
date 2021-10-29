@@ -7,5 +7,3 @@
 <a href="https://monosnap.com/file/GCtTF7HDoiJgZ3j61yzYHcwmtTofcL" rel="noopener noreferrer" target="_blank">3. Contact adding</a>
 </br>
 <a href="https://monosnap.com/file/VjwjRPrPAKpqEYtlDZUKKVOhtetlAO" rel="noopener noreferrer" target="_blank">4. Contact removing</a>
-
-
